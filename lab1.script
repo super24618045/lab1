@@ -1,0 +1,17 @@
+Script started on 2016年03月13日 (週日) 18時44分16秒
+]0;F74041072@2015cpp: ~F74041072@2015cpp:~$ whoami; pwd
+F74041072
+/home/F74041072
+]0;F74041072@2015cpp: ~F74041072@2015cpp:~$ git config -l
+user.name=gary
+user.email=super24618045@yahoo.com.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F74041072@2015cpp: ~F74041072@2015cpp:~$ git clone https://github.com/super24618045/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74041072@2015cpp: ~F74041072@2015cpp:~$ exit
+
+Script done on 2016年03月13日 (週日) 18時45分22秒
